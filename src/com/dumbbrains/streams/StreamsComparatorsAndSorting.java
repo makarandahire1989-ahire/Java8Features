@@ -1,4 +1,4 @@
-package com.dumbbrains;
+package com.dumbbrains.streams;
 
 import java.util.Arrays;
 import java.util.Comparator;
